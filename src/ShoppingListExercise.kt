@@ -13,7 +13,7 @@ fun main(args :Array<String>){
 
 }
 
-class GroceryItem(var name :String, var quantity :Int){
+data class GroceryItem(var name :String, var quantity :Int){
 
 }
 
